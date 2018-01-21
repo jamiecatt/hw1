@@ -1,0 +1,26 @@
+// Function Definition //
+
+function downTwoTimes { 
+down
+down
+}
+function downThreeTimes { 
+down
+down
+down
+}
+function rightThreeTimes { 
+right
+right
+right
+}
+
+// Puzzle Code // 
+
+function downTwoTimes
+var firstColorSeen = getColor
+function downThreeTimes
+function rightThreeTimes
+setColor(firstColorSeen)
+right
+up

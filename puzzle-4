@@ -1,0 +1,25 @@
+// Function Definition // 
+
+function downFourTimes { 
+down
+down
+down
+down
+}
+
+// Puzzle Code //
+
+right
+function downFourTimes
+var firstColorSeen = getColor
+down
+right
+setColor(firstColorSeen)
+right
+up
+right
+var secondColorSeen = getColor
+down
+right
+setColor(secondColorSeen)
+right

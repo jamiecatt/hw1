@@ -1,14 +1,4 @@
-function downSixTimes
-function rightThreeTimes
-function upTwoTimes
-function rightTwoTimes
-down
-down
-down
-
-
-
-Function Definition
+// Function Definition //
 
 function downSixTimes {
 down
@@ -31,3 +21,13 @@ function rightTwoTimes {
 right
 right
 }
+
+// Puzzle Code //
+
+function downSixTimes
+function rightThreeTimes
+function upTwoTimes
+function rightTwoTimes
+down
+down
+down

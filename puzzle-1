@@ -1,11 +1,4 @@
-function downSevenTimes
-function rightFiveTimes
-function upTwoTimes
-function rightTwoTimes
-
-
-
-Function Definition
+// Function Definition //
 
 function downSevenTimes {
 down
@@ -30,3 +23,10 @@ function rightTwoTimes {
 right
 right
 }
+
+// Puzzle Code // 
+
+function downSevenTimes
+function rightFiveTimes
+function upTwoTimes
+function rightTwoTimes

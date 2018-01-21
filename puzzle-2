@@ -1,0 +1,33 @@
+function downSixTimes
+function rightThreeTimes
+function upTwoTimes
+function rightTwoTimes
+down
+down
+down
+
+
+
+Function Definition
+
+function downSixTimes {
+down
+down
+down 
+down
+down
+down
+}
+function rightThreeTimes { 
+right
+right
+right
+}
+function upTwoTimes {
+up
+up
+}
+function rightTwoTimes {
+right
+right
+}

@@ -1,0 +1,22 @@
+// Puzzle Code //
+
+var steps = 0
+while (steps < 9) {
+   right
+   setColor
+}
+var steps = 0
+while (steps < 9) {
+   down
+   setColor
+}
+var steps = 0
+while (steps < 9) {
+   left
+   setColor
+}
+var steps = 0
+while (steps < 9) {
+   up
+   setColor
+}

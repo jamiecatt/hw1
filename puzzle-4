@@ -13,13 +13,13 @@ right
 function downFourTimes
 var firstColorSeen = getColor
 down
-right
 setColor(firstColorSeen)
+right
 right
 up
 right
 var secondColorSeen = getColor
 down
-right
 setColor(secondColorSeen)
+right
 right

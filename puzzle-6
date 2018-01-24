@@ -12,7 +12,14 @@ if (getColor == “blue”) {
    down
    down
    down
+}
+}
+if (getColor =="blue") {
+   right
+   down
+} else {
+if (getColor == "red") {
    left
    down
-}
+} 
 }

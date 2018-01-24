@@ -9,8 +9,7 @@ down
 down
 down
 }
-function rightThreeTimes { 
-right
+function rightTwoTimes { 
 right
 right
 }
@@ -20,7 +19,7 @@ right
 function downTwoTimes
 var firstColorSeen = getColor
 function downThreeTimes
-function rightThreeTimes
+function rightTwoTimes
 setColor(firstColorSeen)
-right
+function rightTwoTimes
 up
